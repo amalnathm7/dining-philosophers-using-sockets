@@ -19,6 +19,6 @@ should be implemented.  For example the RightLeftDP algorithm (Lynch,1996) is a 
 philosophers. The philosophers change their states among “thinking”, “waiting”, and “eating” until all philosophers fulfil their eating
 requirements(60 seconds total eating time). Print the status of each philosopher whenever there is a change in the status.
 
-#### Solution
+#### Result
 
 The given problem is solved using socket programming in C language.
